@@ -1,0 +1,54 @@
+#root {
+    text-align: center;
+    margin-top: 30px;
+    background-image: url("https://image.cnbcfm.com/api/v1/image/106537227-1589463911434gettyimages-890234318.jpeg?v=1589463982&w=1600&h=900");
+}
+
+#seats{
+    width: 1000px;
+    align-items: center;
+    padding-left: 550px;
+}
+
+.headerClass{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 10px;
+    color: rgb(66, 64, 64);
+}
+
+.cityClass {
+    font-size: 18px;
+    width: 500px;
+    height: 40px;
+    line-height: 48px;
+    padding-left: 40px;
+    position: relative;
+    color:black
+}
+
+.dateClass {
+    width: 200px;
+    height: 50px;
+    background-color: rgb(243, 248, 248);
+    margin-bottom: 20px;
+    color: white;
+}
+
+.nameClass{
+    width: 500px;
+    height: 40px;
+    margin-top: 30px;
+}
+
+.secondNameClass {
+    width: 500px;
+    height: 40px;
+    margin-bottom: 20px ;
+}
+
+.seatHeaderClass{
+    padding-left: 700px;
+}
+
+
